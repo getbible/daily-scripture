@@ -1,5 +1,5 @@
-**2 Corinthians 12:10**
+**Genesis 3:12-13**
 
-10 Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
+12 And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. 13 And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 
-[Monday 07-September, 2026](https://getbible.life/kjv/2%20Corinthians/12/10)
+[Tuesday 08-September, 2026](https://getbible.life/kjv/Genesis/3/12-13)
