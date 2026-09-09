@@ -1,5 +1,5 @@
-**Genesis 3:12-13**
+**2 Corinthians 5:8**
 
-12 And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. 13 And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
+8 We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.
 
-[Tuesday 08-September, 2026](https://getbible.life/kjv/Genesis/3/12-13)
+[Wednesday 09-September, 2026](https://getbible.life/kjv/2%20Corinthians/5/8)
