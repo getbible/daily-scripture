@@ -1,5 +1,5 @@
-**2 Corinthians 5:8**
+**1 Corinthians 7:35**
 
-8 We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.
+35 And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.
 
-[Wednesday 09-September, 2026](https://getbible.life/kjv/2%20Corinthians/5/8)
+[Thursday 10-September, 2026](https://getbible.life/kjv/1%20Corinthians/7/35)
