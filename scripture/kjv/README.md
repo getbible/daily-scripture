@@ -1,5 +1,5 @@
-**1 Corinthians 7:35**
+**Proverbs 15:8**
 
-35 And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.
+8 The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.
 
-[Thursday 10-September, 2026](https://getbible.life/kjv/1%20Corinthians/7/35)
+[Friday 11-September, 2026](https://getbible.life/kjv/Proverbs/15/8)

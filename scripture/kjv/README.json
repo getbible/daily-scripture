@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "7",
-  "date": "Thursday 10-September, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/7/35",
-  "name": "1 Corinthians 7:35",
+  "book": "Proverbs",
+  "chapter": "15",
+  "date": "Friday 11-September, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/15/8",
+  "name": "Proverbs 15:8",
   "scripture": [
     {
-      "nr": "35",
-      "text": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction."
+      "nr": "8",
+      "text": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "8",
   "version": "kjv"
 }
