@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "1",
+  "date": "Friday 30-May, 2025",
+  "getbible": "https://getbible.life/kjv/Isaiah/1/13",
+  "name": "Isaiah 1:13",
+  "scripture": [
+    {
+      "nr": "13",
+      "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "13",
+  "version": "kjv"
+}

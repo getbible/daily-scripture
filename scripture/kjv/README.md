@@ -1,5 +1,5 @@
-**Psalms 95:6**
+**John 18:25**
 
-6 O come, let us worship and bow down: let us kneel before the Lord our maker.
+25 And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
 
-[Tuesday 15-April, 2025](https://getbible.net/kjv/Psalms/95/6)
+[Saturday 12-September, 2026](https://getbible.life/kjv/John/18/25)

@@ -1,0 +1,17 @@
+{
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Tuesday 17-February, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/2/20",
+  "name": "1 John 2:20",
+  "scripture": [
+    {
+      "nr": "20",
+      "text": "But ye have an unction from the Holy One, and ye know all things."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "20",
+  "version": "kjv"
+}

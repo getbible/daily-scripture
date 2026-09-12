@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "1",
+  "date": "Saturday 06-June, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/1/45",
+  "name": "Luke 1:45",
+  "scripture": [
+    {
+      "nr": "45",
+      "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "45",
+  "version": "kjv"
+}

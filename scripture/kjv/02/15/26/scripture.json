@@ -1,0 +1,21 @@
+{
+  "book": "1 John",
+  "chapter": "5",
+  "date": "Sunday 15-February, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/5/12-13",
+  "name": "1 John 5:12-13",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life."
+    },
+    {
+      "nr": "13",
+      "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12-13",
+  "version": "kjv"
+}

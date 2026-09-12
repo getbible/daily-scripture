@@ -1,0 +1,21 @@
+{
+  "book": "Matthew",
+  "chapter": "18",
+  "date": "Monday 27-April, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/18/19-20",
+  "name": "Matthew 18:19-20",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+    },
+    {
+      "nr": "20",
+      "text": "For where two or three are gathered together in my name, there am I in the midst of them."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19-20",
+  "version": "kjv"
+}

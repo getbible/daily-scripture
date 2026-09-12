@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "10",
+  "date": "Sunday 04-January, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/10/12",
+  "name": "Proverbs 10:12",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "Hatred stirreth up strifes: but love covereth all sins."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12",
+  "version": "kjv"
+}

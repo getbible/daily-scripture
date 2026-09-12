@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "1",
+  "date": "Sunday 14-June, 2026",
+  "getbible": "https://getbible.life/kjv/John/1/33",
+  "name": "John 1:33",
+  "scripture": [
+    {
+      "nr": "33",
+      "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "33",
+  "version": "kjv"
+}

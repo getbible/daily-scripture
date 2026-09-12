@@ -1,0 +1,21 @@
+{
+  "book": "Ezekiel",
+  "chapter": "47",
+  "date": "Sunday 12-July, 2026",
+  "getbible": "https://getbible.life/kjv/Ezekiel/47/10-11",
+  "name": "Ezekiel 47:10-11",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many."
+    },
+    {
+      "nr": "11",
+      "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10-11",
+  "version": "kjv"
+}

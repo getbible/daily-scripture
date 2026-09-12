@@ -1,0 +1,21 @@
+{
+  "book": "Hebrews",
+  "chapter": "6",
+  "date": "Thursday 02-April, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/6/11-12",
+  "name": "Hebrews 6:11-12",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+    },
+    {
+      "nr": "12",
+      "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11-12",
+  "version": "kjv"
+}

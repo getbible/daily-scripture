@@ -1,0 +1,17 @@
+{
+  "book": "2 Thessalonians",
+  "chapter": "3",
+  "date": "Tuesday 10-March, 2026",
+  "getbible": "https://getbible.life/kjv/2 Thessalonians/3/13",
+  "name": "2 Thessalonians 3:13",
+  "scripture": [
+    {
+      "nr": "13",
+      "text": "But ye, brethren, be not weary in well doing."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "13",
+  "version": "kjv"
+}

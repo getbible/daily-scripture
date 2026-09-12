@@ -1,0 +1,17 @@
+{
+  "book": "Matthew",
+  "chapter": "18",
+  "date": "Monday 03-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/18/11",
+  "name": "Matthew 18:11",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "For the Son of man is come to save that which was lost."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11",
+  "version": "kjv"
+}

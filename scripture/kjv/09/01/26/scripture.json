@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "68",
+  "date": "Tuesday 01-September, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/68/10",
+  "name": "Psalms 68:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

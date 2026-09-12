@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "20",
+  "date": "Thursday 17-July, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/20/9",
+  "name": "Proverbs 20:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Who can say, I have made my heart clean, I am pure from my sin?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

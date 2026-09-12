@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "9",
+  "date": "Friday 26-December, 2025",
+  "getbible": "https://getbible.life/kjv/John/9/34",
+  "name": "John 9:34",
+  "scripture": [
+    {
+      "nr": "34",
+      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "34",
+  "version": "kjv"
+}

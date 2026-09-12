@@ -1,0 +1,21 @@
+{
+  "book": "Matthew",
+  "chapter": "7",
+  "date": "Thursday 26-February, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/7/28-29",
+  "name": "Matthew 7:28-29",
+  "scripture": [
+    {
+      "nr": "28",
+      "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"
+    },
+    {
+      "nr": "29",
+      "text": "For he taught them as one having authority, and not as the scribes. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "28-29",
+  "version": "kjv"
+}

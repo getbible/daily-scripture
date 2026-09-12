@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "29",
+  "date": "Saturday 28-June, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/29/2",
+  "name": "Proverbs 29:2",
+  "scripture": [
+    {
+      "nr": "2",
+      "text": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "2",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Genesis",
+  "chapter": "29",
+  "date": "Saturday 25-April, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/29/20",
+  "name": "Genesis 29:20",
+  "scripture": [
+    {
+      "nr": "20",
+      "text": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "20",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Tuesday 27-May, 2025",
+  "getbible": "https://getbible.life/kjv/Philippians/4/23",
+  "name": "Philippians 4:23",
+  "scripture": [
+    {
+      "nr": "23",
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "23",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "1",
+  "date": "Friday 04-September, 2026",
+  "getbible": "https://getbible.life/kjv/John/1/37",
+  "name": "John 1:37",
+  "scripture": [
+    {
+      "nr": "37",
+      "text": "And the two disciples heard him speak, and they followed Jesus."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "37",
+  "version": "kjv"
+}

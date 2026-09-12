@@ -1,0 +1,21 @@
+{
+  "book": "Psalms",
+  "chapter": "19",
+  "date": "Monday 23-June, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/19/11-12",
+  "name": "Psalms 19:11-12",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "Moreover by them is thy servant warned: and in keeping of them there is great reward."
+    },
+    {
+      "nr": "12",
+      "text": "Who can understand his errors? cleanse thou me from secret faults."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11-12",
+  "version": "kjv"
+}

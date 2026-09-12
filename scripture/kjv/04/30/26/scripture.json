@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "3",
+  "date": "Thursday 30-April, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/3/17",
+  "name": "2 Corinthians 3:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

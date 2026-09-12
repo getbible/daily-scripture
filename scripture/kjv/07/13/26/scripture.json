@@ -1,0 +1,17 @@
+{
+  "book": "Ephesians",
+  "chapter": "1",
+  "date": "Monday 13-July, 2026",
+  "getbible": "https://getbible.life/kjv/Ephesians/1/18",
+  "name": "Ephesians 1:18",
+  "scripture": [
+    {
+      "nr": "18",
+      "text": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "18",
+  "version": "kjv"
+}

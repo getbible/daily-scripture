@@ -1,0 +1,17 @@
+{
+  "book": "Mark",
+  "chapter": "10",
+  "date": "Sunday 11-May, 2025",
+  "getbible": "https://getbible.life/kjv/Mark/10/27",
+  "name": "Mark 10:27",
+  "scripture": [
+    {
+      "nr": "27",
+      "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "27",
+  "version": "kjv"
+}

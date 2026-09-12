@@ -1,0 +1,17 @@
+{
+  "book": "Matthew",
+  "chapter": "25",
+  "date": "Monday 01-December, 2025",
+  "getbible": "https://getbible.life/kjv/Matthew/25/20",
+  "name": "Matthew 25:20",
+  "scripture": [
+    {
+      "nr": "20",
+      "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "20",
+  "version": "kjv"
+}

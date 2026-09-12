@@ -1,0 +1,21 @@
+{
+  "book": "Psalms",
+  "chapter": "9",
+  "date": "Sunday 01-February, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/9/9-10",
+  "name": "Psalms 9:9-10",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "The Lord also will be a refuge for the oppressed, a refuge in times of trouble."
+    },
+    {
+      "nr": "10",
+      "text": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9-10",
+  "version": "kjv"
+}

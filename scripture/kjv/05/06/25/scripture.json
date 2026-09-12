@@ -1,0 +1,17 @@
+{
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Tuesday 06-May, 2025",
+  "getbible": "https://getbible.life/kjv/1 John/3/11",
+  "name": "1 John 3:11",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "For this is the message that ye heard from the beginning, that we should love one another."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11",
+  "version": "kjv"
+}

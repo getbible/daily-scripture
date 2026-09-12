@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "9",
+  "date": "Saturday 17-January, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/9/9",
+  "name": "2 Corinthians 9:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "(As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

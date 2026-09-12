@@ -1,0 +1,17 @@
+{
+  "book": "Galatians",
+  "chapter": "5",
+  "date": "Wednesday 26-November, 2025",
+  "getbible": "https://getbible.life/kjv/Galatians/5/25",
+  "name": "Galatians 5:25",
+  "scripture": [
+    {
+      "nr": "25",
+      "text": "If we live in the Spirit, let us also walk in the Spirit."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "25",
+  "version": "kjv"
+}

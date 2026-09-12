@@ -1,0 +1,21 @@
+{
+  "book": "Deuteronomy",
+  "chapter": "33",
+  "date": "Wednesday 30-April, 2025",
+  "getbible": "https://getbible.life/kjv/Deuteronomy/33/9-10",
+  "name": "Deuteronomy 33:9-10",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant."
+    },
+    {
+      "nr": "10",
+      "text": "They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9-10",
+  "version": "kjv"
+}

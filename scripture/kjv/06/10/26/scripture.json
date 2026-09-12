@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "9",
+  "date": "Wednesday 10-June, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/9/32",
+  "name": "Acts 9:32",
+  "scripture": [
+    {
+      "nr": "32",
+      "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "32",
+  "version": "kjv"
+}

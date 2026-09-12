@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "15",
+  "date": "Friday 26-September, 2025",
+  "getbible": "https://getbible.life/kjv/John/15/11",
+  "name": "John 15:11",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11",
+  "version": "kjv"
+}

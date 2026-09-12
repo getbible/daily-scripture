@@ -1,0 +1,17 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": "12",
+  "date": "Monday 27-October, 2025",
+  "getbible": "https://getbible.life/kjv/Ecclesiastes/12/14",
+  "name": "Ecclesiastes 12:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

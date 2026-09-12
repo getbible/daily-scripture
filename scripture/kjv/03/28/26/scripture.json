@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "33",
+  "date": "Saturday 28-March, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/33/17",
+  "name": "Isaiah 33:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "Thine eyes shall see the king in his beauty: they shall behold the land that is very far off."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

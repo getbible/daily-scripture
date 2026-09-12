@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "24",
+  "date": "Thursday 31-July, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/24/45",
+  "name": "Luke 24:45",
+  "scripture": [
+    {
+      "nr": "45",
+      "text": "Then opened he their understanding, that they might understand the scriptures,"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "45",
+  "version": "kjv"
+}

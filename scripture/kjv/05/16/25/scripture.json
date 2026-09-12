@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "27",
+  "date": "Friday 16-May, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/27/14",
+  "name": "Psalms 27:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

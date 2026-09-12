@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "3",
+  "date": "Friday 13-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/3/11",
+  "name": "Isaiah 3:11",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11",
+  "version": "kjv"
+}

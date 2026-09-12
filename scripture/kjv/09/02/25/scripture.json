@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "2",
+  "date": "Tuesday 02-September, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/2/14",
+  "name": "2 Corinthians 2:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

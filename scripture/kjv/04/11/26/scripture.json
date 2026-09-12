@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Saturday 11-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/21/36",
+  "name": "Luke 21:36",
+  "scripture": [
+    {
+      "nr": "36",
+      "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "36",
+  "version": "kjv"
+}

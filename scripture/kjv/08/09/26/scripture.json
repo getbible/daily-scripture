@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Sunday 09-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/12/7",
+  "name": "1 Corinthians 12:7",
+  "scripture": [
+    {
+      "nr": "7",
+      "text": "But the manifestation of the Spirit is given to every man to profit withal."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "7",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "51",
+  "date": "Thursday 11-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/51/7",
+  "name": "Psalms 51:7",
+  "scripture": [
+    {
+      "nr": "7",
+      "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "7",
+  "version": "kjv"
+}

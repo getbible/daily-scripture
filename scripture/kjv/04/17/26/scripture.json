@@ -1,0 +1,21 @@
+{
+  "book": "Psalms",
+  "chapter": "130",
+  "date": "Friday 17-April, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/130/3-4",
+  "name": "Psalms 130:3-4",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?"
+    },
+    {
+      "nr": "4",
+      "text": "But there is forgiveness with thee, that thou mayest be feared."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3-4",
+  "version": "kjv"
+}

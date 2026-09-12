@@ -1,0 +1,17 @@
+{
+  "book": "Hosea",
+  "chapter": "14",
+  "date": "Tuesday 02-December, 2025",
+  "getbible": "https://getbible.life/kjv/Hosea/14/9",
+  "name": "Hosea 14:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall therein.  "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

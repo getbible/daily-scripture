@@ -1,0 +1,17 @@
+{
+  "book": "Song of Songs",
+  "chapter": "7",
+  "date": "Wednesday 21-January, 2026",
+  "getbible": "https://getbible.life/kjv/Song of Songs/7/10",
+  "name": "Song of Songs 7:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "I am my beloved’s, and his desire is toward me."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

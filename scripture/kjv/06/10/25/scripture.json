@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "3",
+  "date": "Tuesday 10-June, 2025",
+  "getbible": "https://getbible.life/kjv/John/3/21",
+  "name": "John 3:21",
+  "scripture": [
+    {
+      "nr": "21",
+      "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "21",
+  "version": "kjv"
+}

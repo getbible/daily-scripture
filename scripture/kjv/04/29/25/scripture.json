@@ -1,0 +1,21 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Tuesday 29-April, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/12/15-16",
+  "name": "1 Corinthians 12:15-16",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+    },
+    {
+      "nr": "16",
+      "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15-16",
+  "version": "kjv"
+}

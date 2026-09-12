@@ -1,0 +1,17 @@
+{
+  "book": "Deuteronomy",
+  "chapter": "32",
+  "date": "Monday 24-November, 2025",
+  "getbible": "https://getbible.life/kjv/Deuteronomy/32/39",
+  "name": "Deuteronomy 32:39",
+  "scripture": [
+    {
+      "nr": "39",
+      "text": "See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "39",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "12",
+  "date": "Monday 07-September, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/12/10",
+  "name": "2 Corinthians 12:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

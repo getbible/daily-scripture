@@ -1,0 +1,17 @@
+{
+  "book": "Revelation",
+  "chapter": "22",
+  "date": "Saturday 21-February, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation/22/12",
+  "name": "Revelation 22:12",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12",
+  "version": "kjv"
+}

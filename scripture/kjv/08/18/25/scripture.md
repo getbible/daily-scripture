@@ -1,0 +1,5 @@
+**Proverbs 6:9**
+
+9 How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
+
+[Monday 18-August, 2025](https://getbible.life/kjv/Proverbs/6/9)

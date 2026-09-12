@@ -1,0 +1,17 @@
+{
+  "book": "Zephaniah",
+  "chapter": "3",
+  "date": "Sunday 01-March, 2026",
+  "getbible": "https://getbible.life/kjv/Zephaniah/3/17",
+  "name": "Zephaniah 3:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

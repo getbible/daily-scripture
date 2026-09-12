@@ -1,0 +1,17 @@
+{
+  "book": "Hebrews",
+  "chapter": "6",
+  "date": "Thursday 19-February, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/6/15",
+  "name": "Hebrews 6:15",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "And so, after he had patiently endured, he obtained the promise."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15",
+  "version": "kjv"
+}

@@ -1,0 +1,25 @@
+{
+  "book": "James",
+  "chapter": "1",
+  "date": "Thursday 16-July, 2026",
+  "getbible": "https://getbible.life/kjv/James/1/2-4",
+  "name": "James 1:2-4",
+  "scripture": [
+    {
+      "nr": "2",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;"
+    },
+    {
+      "nr": "3",
+      "text": "Knowing this, that the trying of your faith worketh patience."
+    },
+    {
+      "nr": "4",
+      "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "2-4",
+  "version": "kjv"
+}

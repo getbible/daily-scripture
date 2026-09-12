@@ -1,0 +1,21 @@
+{
+  "book": "Jude",
+  "chapter": "1",
+  "date": "Sunday 27-April, 2025",
+  "getbible": "https://getbible.life/kjv/Jude/1/22-23",
+  "name": "Jude 1:22-23",
+  "scripture": [
+    {
+      "nr": "22",
+      "text": "And of some have compassion, making a difference:"
+    },
+    {
+      "nr": "23",
+      "text": "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "22-23",
+  "version": "kjv"
+}

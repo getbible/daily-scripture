@@ -1,0 +1,17 @@
+{
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Saturday 19-July, 2025",
+  "getbible": "https://getbible.life/kjv/Philippians/4/6",
+  "name": "Philippians 4:6",
+  "scripture": [
+    {
+      "nr": "6",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "6",
+  "version": "kjv"
+}

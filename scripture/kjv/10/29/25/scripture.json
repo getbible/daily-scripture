@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Wednesday 29-October, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/12/19",
+  "name": "Proverbs 12:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

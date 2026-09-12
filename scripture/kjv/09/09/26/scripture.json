@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Wednesday 09-September, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/5/8",
+  "name": "2 Corinthians 5:8",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8",
+  "version": "kjv"
+}

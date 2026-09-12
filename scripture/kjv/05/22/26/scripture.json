@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "3",
+  "date": "Friday 22-May, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/3/12",
+  "name": "Isaiah 3:12",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12",
+  "version": "kjv"
+}

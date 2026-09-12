@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "145",
+  "date": "Monday 04-May, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/145/18",
+  "name": "Psalms 145:18",
+  "scripture": [
+    {
+      "nr": "18",
+      "text": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "18",
+  "version": "kjv"
+}

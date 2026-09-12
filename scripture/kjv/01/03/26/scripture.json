@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "9",
+  "date": "Saturday 03-January, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/9/15",
+  "name": "2 Corinthians 9:15",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "Thanks be unto God for his unspeakable gift. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15",
+  "version": "kjv"
+}

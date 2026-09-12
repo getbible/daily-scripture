@@ -1,0 +1,5 @@
+**John 9:34**
+
+34 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
+
+[Friday 26-December, 2025](https://getbible.life/kjv/John/9/34)

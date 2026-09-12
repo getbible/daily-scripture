@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "11",
+  "date": "Friday 27-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/11/25",
+  "name": "Proverbs 11:25",
+  "scripture": [
+    {
+      "nr": "25",
+      "text": "The liberal soul shall be made fat: and he that watereth shall be watered also himself."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "25",
+  "version": "kjv"
+}

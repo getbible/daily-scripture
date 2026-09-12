@@ -1,0 +1,21 @@
+{
+  "book": "Romans",
+  "chapter": "3",
+  "date": "Thursday 08-January, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/3/3-4",
+  "name": "Romans 3:3-4",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?"
+    },
+    {
+      "nr": "4",
+      "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3-4",
+  "version": "kjv"
+}

@@ -1,0 +1,25 @@
+{
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Tuesday 06-January, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/21/17-19",
+  "name": "Luke 21:17-19",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "And ye shall be hated of all men for my name’s sake."
+    },
+    {
+      "nr": "18",
+      "text": "But there shall not an hair of your head perish."
+    },
+    {
+      "nr": "19",
+      "text": "In your patience possess ye your souls."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17-19",
+  "version": "kjv"
+}

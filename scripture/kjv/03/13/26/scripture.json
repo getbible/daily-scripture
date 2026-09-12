@@ -1,0 +1,21 @@
+{
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Friday 13-March, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/1-2",
+  "name": "Philippians 2:1-2",
+  "scripture": [
+    {
+      "nr": "1",
+      "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+    },
+    {
+      "nr": "2",
+      "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "1-2",
+  "version": "kjv"
+}

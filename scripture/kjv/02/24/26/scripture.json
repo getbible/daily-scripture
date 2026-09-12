@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "6",
+  "date": "Tuesday 24-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/6/8",
+  "name": "Isaiah 6:8",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8",
+  "version": "kjv"
+}

@@ -1,0 +1,25 @@
+{
+  "book": "John",
+  "chapter": "10",
+  "date": "Tuesday 17-March, 2026",
+  "getbible": "https://getbible.life/kjv/John/10/19-21",
+  "name": "John 10:19-21",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "There was a division therefore again among the Jews for these sayings."
+    },
+    {
+      "nr": "20",
+      "text": "And many of them said, He hath a devil, and is mad; why hear ye him?"
+    },
+    {
+      "nr": "21",
+      "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19-21",
+  "version": "kjv"
+}

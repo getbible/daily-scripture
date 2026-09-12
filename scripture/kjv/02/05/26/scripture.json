@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "17",
+  "date": "Thursday 05-February, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/17/17",
+  "name": "Proverbs 17:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "A friend loveth at all times, and a brother is born for adversity."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

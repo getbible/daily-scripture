@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "10",
+  "date": "Friday 25-April, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/10/21",
+  "name": "Proverbs 10:21",
+  "scripture": [
+    {
+      "nr": "21",
+      "text": "The lips of the righteous feed many: but fools die for want of wisdom."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "21",
+  "version": "kjv"
+}

@@ -1,0 +1,21 @@
+{
+  "book": "Luke",
+  "chapter": "19",
+  "date": "Monday 20-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/19/8-9",
+  "name": "Luke 19:8-9",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+    },
+    {
+      "nr": "9",
+      "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8-9",
+  "version": "kjv"
+}

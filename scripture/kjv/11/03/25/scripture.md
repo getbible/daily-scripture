@@ -1,0 +1,5 @@
+**James 2:14-17**
+
+14 What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 15 If a brother or sister be naked, and destitute of daily food, 16 And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? 17 Even so faith, if it hath not works, is dead, being alone.
+
+[Monday 03-November, 2025](https://getbible.life/kjv/James/2/14-17)

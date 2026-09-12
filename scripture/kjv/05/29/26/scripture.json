@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "29",
+  "date": "Friday 29-May, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/29/20",
+  "name": "Proverbs 29:20",
+  "scripture": [
+    {
+      "nr": "20",
+      "text": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "20",
+  "version": "kjv"
+}

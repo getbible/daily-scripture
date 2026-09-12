@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "10",
+  "date": "Thursday 06-November, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/10/24",
+  "name": "1 Corinthians 10:24",
+  "scripture": [
+    {
+      "nr": "24",
+      "text": "Let no man seek his own, but every man another’s wealth. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "24",
+  "version": "kjv"
+}

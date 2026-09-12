@@ -1,0 +1,17 @@
+{
+  "book": "Matthew",
+  "chapter": "6",
+  "date": "Thursday 01-January, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/6/10",
+  "name": "Matthew 6:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

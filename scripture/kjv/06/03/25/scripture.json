@@ -1,0 +1,17 @@
+{
+  "book": "Ezekiel",
+  "chapter": "34",
+  "date": "Tuesday 03-June, 2025",
+  "getbible": "https://getbible.life/kjv/Ezekiel/34/20",
+  "name": "Ezekiel 34:20",
+  "scripture": [
+    {
+      "nr": "20",
+      "text": "Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "20",
+  "version": "kjv"
+}

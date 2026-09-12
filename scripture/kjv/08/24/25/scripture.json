@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Sunday 24-August, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/11",
+  "name": "Proverbs 19:11",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11",
+  "version": "kjv"
+}

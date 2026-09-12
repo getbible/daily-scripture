@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "6",
+  "date": "Friday 09-May, 2025",
+  "getbible": "https://getbible.life/kjv/John/6/60",
+  "name": "John 6:60",
+  "scripture": [
+    {
+      "nr": "60",
+      "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "60",
+  "version": "kjv"
+}

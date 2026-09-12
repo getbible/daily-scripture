@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "16",
+  "date": "Wednesday 29-July, 2026",
+  "getbible": "https://getbible.life/kjv/John/16/13",
+  "name": "John 16:13",
+  "scripture": [
+    {
+      "nr": "13",
+      "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "13",
+  "version": "kjv"
+}

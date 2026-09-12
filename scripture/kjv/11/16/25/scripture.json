@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "15",
+  "date": "Sunday 16-November, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/15/4",
+  "name": "Proverbs 15:4",
+  "scripture": [
+    {
+      "nr": "4",
+      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "4",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Friday 20-March, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/2/29",
+  "name": "1 John 2:29",
+  "scripture": [
+    {
+      "nr": "29",
+      "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "29",
+  "version": "kjv"
+}

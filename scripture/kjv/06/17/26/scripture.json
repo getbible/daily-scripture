@@ -1,0 +1,17 @@
+{
+  "book": "Hebrews",
+  "chapter": "13",
+  "date": "Wednesday 17-June, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/13/13",
+  "name": "Hebrews 13:13",
+  "scripture": [
+    {
+      "nr": "13",
+      "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "13",
+  "version": "kjv"
+}

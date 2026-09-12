@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "58",
+  "date": "Tuesday 25-November, 2025",
+  "getbible": "https://getbible.life/kjv/Isaiah/58/1",
+  "name": "Isaiah 58:1",
+  "scripture": [
+    {
+      "nr": "1",
+      "text": "Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "1",
+  "version": "kjv"
+}

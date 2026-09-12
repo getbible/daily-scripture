@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "3",
+  "date": "Monday 12-January, 2026",
+  "getbible": "https://getbible.life/kjv/John/3/34",
+  "name": "John 3:34",
+  "scripture": [
+    {
+      "nr": "34",
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "34",
+  "version": "kjv"
+}

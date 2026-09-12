@@ -1,0 +1,5 @@
+**2 Timothy 2:24-26**
+
+24 And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, 25 In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth; 26 And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. 
+
+[Saturday 21-March, 2026](https://getbible.life/kjv/2 Timothy/2/24-26)

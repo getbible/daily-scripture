@@ -1,0 +1,21 @@
+{
+  "book": "Romans",
+  "chapter": "8",
+  "date": "Wednesday 15-October, 2025",
+  "getbible": "https://getbible.life/kjv/Romans/8/36-37",
+  "name": "Romans 8:36-37",
+  "scripture": [
+    {
+      "nr": "36",
+      "text": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
+    },
+    {
+      "nr": "37",
+      "text": "Nay, in all these things we are more than conquerors through him that loved us."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "36-37",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Mark",
+  "chapter": "9",
+  "date": "Thursday 01-May, 2025",
+  "getbible": "https://getbible.life/kjv/Mark/9/50",
+  "name": "Mark 9:50",
+  "scripture": [
+    {
+      "nr": "50",
+      "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "50",
+  "version": "kjv"
+}

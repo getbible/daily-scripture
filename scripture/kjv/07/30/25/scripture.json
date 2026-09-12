@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "7",
+  "date": "Wednesday 30-July, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/7/3",
+  "name": "Acts 7:3",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3",
+  "version": "kjv"
+}

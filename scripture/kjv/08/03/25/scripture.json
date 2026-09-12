@@ -1,0 +1,29 @@
+{
+  "book": "Psalms",
+  "chapter": "102",
+  "date": "Sunday 03-August, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/102/17-20",
+  "name": "Psalms 102:17-20",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "He will regard the prayer of the destitute, and not despise their prayer."
+    },
+    {
+      "nr": "18",
+      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the Lord."
+    },
+    {
+      "nr": "19",
+      "text": "For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth;"
+    },
+    {
+      "nr": "20",
+      "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17-20",
+  "version": "kjv"
+}

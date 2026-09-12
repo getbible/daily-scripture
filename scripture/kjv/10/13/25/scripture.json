@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "11",
+  "date": "Monday 13-October, 2025",
+  "getbible": "https://getbible.life/kjv/John/11/52",
+  "name": "John 11:52",
+  "scripture": [
+    {
+      "nr": "52",
+      "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "52",
+  "version": "kjv"
+}

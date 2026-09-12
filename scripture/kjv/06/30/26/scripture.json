@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "4",
+  "date": "Tuesday 30-June, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/4/9",
+  "name": "2 Corinthians 4:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Persecuted, but not forsaken; cast down, but not destroyed;"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

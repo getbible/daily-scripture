@@ -1,0 +1,21 @@
+{
+  "book": "Titus",
+  "chapter": "3",
+  "date": "Sunday 14-December, 2025",
+  "getbible": "https://getbible.life/kjv/Titus/3/8-9",
+  "name": "Titus 3:8-9",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
+    },
+    {
+      "nr": "9",
+      "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8-9",
+  "version": "kjv"
+}

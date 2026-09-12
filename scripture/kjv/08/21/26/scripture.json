@@ -1,0 +1,17 @@
+{
+  "book": "Matthew",
+  "chapter": "22",
+  "date": "Friday 21-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/22/9",
+  "name": "Matthew 22:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

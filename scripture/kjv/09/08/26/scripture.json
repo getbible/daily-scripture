@@ -1,0 +1,21 @@
+{
+  "book": "Genesis",
+  "chapter": "3",
+  "date": "Tuesday 08-September, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/3/12-13",
+  "name": "Genesis 3:12-13",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+    },
+    {
+      "nr": "13",
+      "text": "And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12-13",
+  "version": "kjv"
+}

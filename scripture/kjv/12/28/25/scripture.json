@@ -1,0 +1,17 @@
+{
+  "book": "Romans",
+  "chapter": "11",
+  "date": "Sunday 28-December, 2025",
+  "getbible": "https://getbible.life/kjv/Romans/11/14",
+  "name": "Romans 11:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Job",
+  "chapter": "6",
+  "date": "Wednesday 18-June, 2025",
+  "getbible": "https://getbible.life/kjv/Job/6/14",
+  "name": "Job 6:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

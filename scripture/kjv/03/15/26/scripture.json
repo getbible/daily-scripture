@@ -1,0 +1,21 @@
+{
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Sunday 15-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/119/59-60",
+  "name": "Psalms 119:59-60",
+  "scripture": [
+    {
+      "nr": "59",
+      "text": "I thought on my ways, and turned my feet unto thy testimonies."
+    },
+    {
+      "nr": "60",
+      "text": "I made haste, and delayed not to keep thy commandments."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "59-60",
+  "version": "kjv"
+}

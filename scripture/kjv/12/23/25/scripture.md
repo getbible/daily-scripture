@@ -1,0 +1,5 @@
+**1 John 4:1-3**
+
+1 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. 2 Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God: 3 And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
+
+[Tuesday 23-December, 2025](https://getbible.life/kjv/1 John/4/1-3)

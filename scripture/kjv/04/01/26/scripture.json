@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "10",
+  "date": "Wednesday 01-April, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/10/33",
+  "name": "1 Corinthians 10:33",
+  "scripture": [
+    {
+      "nr": "33",
+      "text": "Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "33",
+  "version": "kjv"
+}

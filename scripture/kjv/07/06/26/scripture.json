@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "14",
+  "date": "Monday 06-July, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/14/1",
+  "name": "1 Corinthians 14:1",
+  "scripture": [
+    {
+      "nr": "1",
+      "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "1",
+  "version": "kjv"
+}

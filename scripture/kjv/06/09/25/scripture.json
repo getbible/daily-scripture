@@ -1,0 +1,21 @@
+{
+  "book": "Hebrews",
+  "chapter": "9",
+  "date": "Monday 09-June, 2025",
+  "getbible": "https://getbible.life/kjv/Hebrews/9/13-14",
+  "name": "Hebrews 9:13-14",
+  "scripture": [
+    {
+      "nr": "13",
+      "text": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:"
+    },
+    {
+      "nr": "14",
+      "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "13-14",
+  "version": "kjv"
+}

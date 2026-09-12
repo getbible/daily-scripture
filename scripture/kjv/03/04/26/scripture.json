@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Wednesday 04-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/2",
+  "name": "Proverbs 19:2",
+  "scripture": [
+    {
+      "nr": "2",
+      "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "2",
+  "version": "kjv"
+}

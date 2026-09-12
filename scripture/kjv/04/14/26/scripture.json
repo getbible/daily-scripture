@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "6",
+  "date": "Tuesday 14-April, 2026",
+  "getbible": "https://getbible.life/kjv/John/6/39",
+  "name": "John 6:39",
+  "scripture": [
+    {
+      "nr": "39",
+      "text": "And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "39",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "2",
+  "date": "Friday 18-April, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/2/9",
+  "name": "2 Corinthians 2:9",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9",
+  "version": "kjv"
+}

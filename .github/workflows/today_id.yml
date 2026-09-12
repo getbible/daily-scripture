@@ -1,29 +1,31 @@
 name: "Load Today's Scripture Telegram ID!"
 
 on:
-  # run once per/day
+  # Run once per day at 23:45 UTC
   schedule:
     - cron: '45 23 * * *'
-  # so we can manually update
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: [ubuntu-20.04]
+  load-scripture-telegram-id:
+    runs-on: ubuntu-22.04
+
     steps:
       - name: Setup gitHub User Details
-        env:
-          GIT_USER: ${{ secrets.GIT_USER }}
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GPG_USER: ${{ secrets.GPG_USER }}
-          GPG_KEY: ${{ secrets.GPG_KEY }}
-          SSH_KEY: ${{ secrets.SSH_KEY }}
-          SSH_PUB: ${{ secrets.SSH_PUB }}
-        run: |
-          /bin/bash <(/bin/curl -s https://raw.githubusercontent.com/vdm-io/github-user/master/src/setup.sh) --gpg-key "$GPG_KEY" --gpg-user "$GPG_USER" --ssh-key "$SSH_KEY" --ssh-pub "$SSH_PUB" --git-user "$GIT_USER" --git-email "$GIT_EMAIL"
-      - name: Clone Master Repository
+        uses: octoleo/git-user@v2
+        with:
+          gpg-key: ${{ secrets.GPG_KEY }}
+          gpg-user: ${{ secrets.GPG_USER }}
+          ssh-key: ${{ secrets.SSH_KEY }}
+          ssh-pub: ${{ secrets.SSH_PUB }}
+          git-user: ${{ secrets.GIT_USER }}
+          git-email: ${{ secrets.GIT_EMAIL }}
+
+      - name: Clone Daily Scripture Repository
         run: |
           /bin/git clone git@github.com:trueChristian/daily-scripture.git daily_scripture
+
       - name: Build the Daily Scripture Telegram ID
         env:
           BOT_TOKEN: ${{ secrets.GETBIBLE_BOT_TOKEN }}
@@ -31,3 +33,4 @@ jobs:
         run: |
           cd daily_scripture
           /bin/bash ./src/telegram.sh
+

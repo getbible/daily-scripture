@@ -1,0 +1,17 @@
+{
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Sunday 10-May, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/4",
+  "name": "Philippians 2:4",
+  "scripture": [
+    {
+      "nr": "4",
+      "text": "Look not every man on his own things, but every man also on the things of others."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "4",
+  "version": "kjv"
+}

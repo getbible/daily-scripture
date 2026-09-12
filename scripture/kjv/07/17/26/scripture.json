@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "27",
+  "date": "Friday 17-July, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/27/3",
+  "name": "Psalms 27:3",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Job",
+  "chapter": "42",
+  "date": "Saturday 09-August, 2025",
+  "getbible": "https://getbible.life/kjv/Job/42/3",
+  "name": "Job 42:3",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3",
+  "version": "kjv"
+}

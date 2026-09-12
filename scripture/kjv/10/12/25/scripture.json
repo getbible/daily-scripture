@@ -1,0 +1,21 @@
+{
+  "book": "Galatians",
+  "chapter": "6",
+  "date": "Sunday 12-October, 2025",
+  "getbible": "https://getbible.life/kjv/Galatians/6/15-16",
+  "name": "Galatians 6:15-16",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
+    },
+    {
+      "nr": "16",
+      "text": "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15-16",
+  "version": "kjv"
+}

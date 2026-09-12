@@ -1,0 +1,21 @@
+{
+  "book": "Isaiah",
+  "chapter": "56",
+  "date": "Saturday 25-October, 2025",
+  "getbible": "https://getbible.life/kjv/Isaiah/56/10-11",
+  "name": "Isaiah 56:10-11",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+    },
+    {
+      "nr": "11",
+      "text": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10-11",
+  "version": "kjv"
+}

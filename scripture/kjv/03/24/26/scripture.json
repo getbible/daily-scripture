@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "17",
+  "date": "Tuesday 24-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/17/26",
+  "name": "Proverbs 17:26",
+  "scripture": [
+    {
+      "nr": "26",
+      "text": "Also to punish the just is not good, nor to strike princes for equity."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "26",
+  "version": "kjv"
+}

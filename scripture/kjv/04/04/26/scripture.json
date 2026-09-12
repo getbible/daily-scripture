@@ -1,0 +1,21 @@
+{
+  "book": "James",
+  "chapter": "4",
+  "date": "Saturday 04-April, 2026",
+  "getbible": "https://getbible.life/kjv/James/4/9-10",
+  "name": "James 4:9-10",
+  "scripture": [
+    {
+      "nr": "9",
+      "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+    },
+    {
+      "nr": "10",
+      "text": "Humble yourselves in the sight of the Lord, and he shall lift you up."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "9-10",
+  "version": "kjv"
+}

@@ -1,0 +1,5 @@
+**Matthew 22:41-45**
+
+41 While the Pharisees were gathered together, Jesus asked them, 42 Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. 43 He saith unto them, How then doth David in spirit call him Lord, saying, 44 The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? 45 If David then call him Lord, how is he his son?
+
+[Friday 12-June, 2026](https://getbible.life/kjv/Matthew/22/41-45)

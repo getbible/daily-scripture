@@ -1,0 +1,25 @@
+{
+  "book": "Matthew",
+  "chapter": "12",
+  "date": "Monday 25-May, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/12/35-37",
+  "name": "Matthew 12:35-37",
+  "scripture": [
+    {
+      "nr": "35",
+      "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+    },
+    {
+      "nr": "36",
+      "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+    },
+    {
+      "nr": "37",
+      "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "35-37",
+  "version": "kjv"
+}

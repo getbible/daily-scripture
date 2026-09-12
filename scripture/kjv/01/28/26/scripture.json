@@ -1,0 +1,17 @@
+{
+  "book": "Isaiah",
+  "chapter": "59",
+  "date": "Wednesday 28-January, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/59/19",
+  "name": "Isaiah 59:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

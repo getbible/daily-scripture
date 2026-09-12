@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "15",
+  "date": "Friday 23-May, 2025",
+  "getbible": "https://getbible.life/kjv/John/15/12",
+  "name": "John 15:12",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "This is my commandment, That ye love one another, as I have loved you."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12",
+  "version": "kjv"
+}

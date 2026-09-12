@@ -1,0 +1,25 @@
+{
+  "book": "Matthew",
+  "chapter": "17",
+  "date": "Monday 29-June, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/17/19-21",
+  "name": "Matthew 17:19-21",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+    },
+    {
+      "nr": "20",
+      "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+    },
+    {
+      "nr": "21",
+      "text": "Howbeit this kind goeth not out but by prayer and fasting."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19-21",
+  "version": "kjv"
+}

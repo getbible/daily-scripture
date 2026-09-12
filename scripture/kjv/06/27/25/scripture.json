@@ -1,0 +1,21 @@
+{
+  "book": "Job",
+  "chapter": "31",
+  "date": "Friday 27-June, 2025",
+  "getbible": "https://getbible.life/kjv/Job/31/33-34",
+  "name": "Job 31:33-34",
+  "scripture": [
+    {
+      "nr": "33",
+      "text": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+    },
+    {
+      "nr": "34",
+      "text": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "33-34",
+  "version": "kjv"
+}

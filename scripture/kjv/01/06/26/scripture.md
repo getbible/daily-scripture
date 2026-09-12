@@ -1,0 +1,5 @@
+**Luke 21:17-19**
+
+17 And ye shall be hated of all men for my name’s sake. 18 But there shall not an hair of your head perish. 19 In your patience possess ye your souls.
+
+[Tuesday 06-January, 2026](https://getbible.life/kjv/Luke/21/17-19)

@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "7",
+  "date": "Thursday 10-September, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/7/35",
+  "name": "1 Corinthians 7:35",
+  "scripture": [
+    {
+      "nr": "35",
+      "text": "And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "35",
+  "version": "kjv"
+}

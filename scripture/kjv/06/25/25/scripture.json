@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "18",
+  "date": "Wednesday 25-June, 2025",
+  "getbible": "https://getbible.life/kjv/John/18/23",
+  "name": "John 18:23",
+  "scripture": [
+    {
+      "nr": "23",
+      "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "23",
+  "version": "kjv"
+}

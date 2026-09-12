@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "13",
+  "date": "Saturday 01-November, 2025",
+  "getbible": "https://getbible.life/kjv/John/13/17",
+  "name": "John 13:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "If ye know these things, happy are ye if ye do them."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

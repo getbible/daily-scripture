@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "1",
+  "date": "Friday 26-June, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/1/8",
+  "name": "1 Corinthians 1:8",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8",
+  "version": "kjv"
+}

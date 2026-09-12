@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "5",
+  "date": "Tuesday 30-December, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/5/32",
+  "name": "Acts 5:32",
+  "scripture": [
+    {
+      "nr": "32",
+      "text": "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "32",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "2",
+  "date": "Tuesday 16-June, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/2/7",
+  "name": "1 Corinthians 2:7",
+  "scripture": [
+    {
+      "nr": "7",
+      "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "7",
+  "version": "kjv"
+}

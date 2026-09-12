@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "3",
+  "date": "Wednesday 03-June, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/3/35",
+  "name": "Proverbs 3:35",
+  "scripture": [
+    {
+      "nr": "35",
+      "text": "The wise shall inherit glory: but shame shall be the promotion of fools. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "35",
+  "version": "kjv"
+}

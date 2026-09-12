@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Saturday 07-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/18",
+  "name": "Proverbs 19:18",
+  "scripture": [
+    {
+      "nr": "18",
+      "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "18",
+  "version": "kjv"
+}

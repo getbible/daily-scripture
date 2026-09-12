@@ -1,0 +1,17 @@
+{
+  "book": "Habakkuk",
+  "chapter": "2",
+  "date": "Friday 19-June, 2026",
+  "getbible": "https://getbible.life/kjv/Habakkuk/2/2",
+  "name": "Habakkuk 2:2",
+  "scripture": [
+    {
+      "nr": "2",
+      "text": "And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "2",
+  "version": "kjv"
+}

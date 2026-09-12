@@ -1,0 +1,17 @@
+{
+  "book": "Amos",
+  "chapter": "5",
+  "date": "Thursday 18-December, 2025",
+  "getbible": "https://getbible.life/kjv/Amos/5/10",
+  "name": "Amos 5:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "20",
+  "date": "Friday 02-May, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/20/35",
+  "name": "Acts 20:35",
+  "scripture": [
+    {
+      "nr": "35",
+      "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "35",
+  "version": "kjv"
+}

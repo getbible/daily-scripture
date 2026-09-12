@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "32",
+  "date": "Wednesday 10-September, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/32/1",
+  "name": "Psalms 32:1",
+  "scripture": [
+    {
+      "nr": "1",
+      "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "1",
+  "version": "kjv"
+}

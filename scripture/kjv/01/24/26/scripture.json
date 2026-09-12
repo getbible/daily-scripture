@@ -1,0 +1,17 @@
+{
+  "book": "3 John",
+  "chapter": "1",
+  "date": "Saturday 24-January, 2026",
+  "getbible": "https://getbible.life/kjv/3 John/1/4",
+  "name": "3 John 1:4",
+  "scripture": [
+    {
+      "nr": "4",
+      "text": "I have no greater joy than to hear that my children walk in truth."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "4",
+  "version": "kjv"
+}

@@ -1,0 +1,21 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "3",
+  "date": "Sunday 08-February, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/3/3-4",
+  "name": "1 Corinthians 3:3-4",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+    },
+    {
+      "nr": "4",
+      "text": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3-4",
+  "version": "kjv"
+}

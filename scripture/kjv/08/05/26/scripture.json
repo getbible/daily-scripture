@@ -1,0 +1,17 @@
+{
+  "book": "Romans",
+  "chapter": "12",
+  "date": "Wednesday 05-August, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/12/17",
+  "name": "Romans 12:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

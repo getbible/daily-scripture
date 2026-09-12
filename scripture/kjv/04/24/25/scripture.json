@@ -1,0 +1,17 @@
+{
+  "book": "Hebrews",
+  "chapter": "10",
+  "date": "Thursday 24-April, 2025",
+  "getbible": "https://getbible.life/kjv/Hebrews/10/17",
+  "name": "Hebrews 10:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "And their sins and iniquities will I remember no more."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

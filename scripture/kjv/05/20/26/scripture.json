@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "12",
+  "date": "Wednesday 20-May, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/12/2",
+  "name": "Acts 12:2",
+  "scripture": [
+    {
+      "nr": "2",
+      "text": "And he killed James the brother of John with the sword."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "2",
+  "version": "kjv"
+}

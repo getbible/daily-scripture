@@ -1,0 +1,17 @@
+{
+  "book": "1 Peter",
+  "chapter": "5",
+  "date": "Monday 06-October, 2025",
+  "getbible": "https://getbible.life/kjv/1 Peter/5/10",
+  "name": "1 Peter 5:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}

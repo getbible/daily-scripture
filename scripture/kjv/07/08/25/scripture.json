@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "7",
+  "date": "Tuesday 08-July, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/7/16",
+  "name": "2 Corinthians 7:16",
+  "scripture": [
+    {
+      "nr": "16",
+      "text": "I rejoice therefore that I have confidence in you in all things. "
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "16",
+  "version": "kjv"
+}

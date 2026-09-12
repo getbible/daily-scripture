@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "16",
+  "date": "Friday 15-May, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/16/15",
+  "name": "Luke 16:15",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15",
+  "version": "kjv"
+}

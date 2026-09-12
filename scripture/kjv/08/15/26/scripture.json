@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "16",
+  "date": "Saturday 15-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/16/14",
+  "name": "1 Corinthians 16:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "Let all your things be done with charity."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

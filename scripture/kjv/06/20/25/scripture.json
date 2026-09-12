@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "25",
+  "date": "Friday 20-June, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/25/12",
+  "name": "Proverbs 25:12",
+  "scripture": [
+    {
+      "nr": "12",
+      "text": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "12",
+  "version": "kjv"
+}

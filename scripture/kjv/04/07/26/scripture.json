@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "112",
+  "date": "Tuesday 07-April, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/112/4",
+  "name": "Psalms 112:4",
+  "scripture": [
+    {
+      "nr": "4",
+      "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "4",
+  "version": "kjv"
+}

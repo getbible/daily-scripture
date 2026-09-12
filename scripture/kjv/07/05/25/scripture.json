@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "3",
+  "date": "Saturday 05-July, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/3/7",
+  "name": "1 Corinthians 3:7",
+  "scripture": [
+    {
+      "nr": "7",
+      "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "7",
+  "version": "kjv"
+}

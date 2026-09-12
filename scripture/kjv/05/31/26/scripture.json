@@ -1,0 +1,25 @@
+{
+  "book": "Psalms",
+  "chapter": "32",
+  "date": "Sunday 31-May, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/32/3-5",
+  "name": "Psalms 32:3-5",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+    },
+    {
+      "nr": "4",
+      "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+    },
+    {
+      "nr": "5",
+      "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3-5",
+  "version": "kjv"
+}

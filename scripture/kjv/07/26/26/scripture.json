@@ -1,0 +1,17 @@
+{
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Sunday 26-July, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/4/19",
+  "name": "Philippians 4:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

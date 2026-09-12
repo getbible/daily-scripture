@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Thursday 28-August, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/12/26",
+  "name": "1 Corinthians 12:26",
+  "scripture": [
+    {
+      "nr": "26",
+      "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "26",
+  "version": "kjv"
+}

@@ -1,0 +1,17 @@
+{
+  "book": "Jeremiah",
+  "chapter": "13",
+  "date": "Friday 22-August, 2025",
+  "getbible": "https://getbible.life/kjv/Jeremiah/13/15",
+  "name": "Jeremiah 13:15",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15",
+  "version": "kjv"
+}

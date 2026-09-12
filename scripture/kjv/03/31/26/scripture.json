@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "69",
+  "date": "Tuesday 31-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/69/19",
+  "name": "Psalms 69:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

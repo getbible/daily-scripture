@@ -1,0 +1,17 @@
+{
+  "book": "Matthew",
+  "chapter": "12",
+  "date": "Sunday 04-May, 2025",
+  "getbible": "https://getbible.life/kjv/Matthew/12/30",
+  "name": "Matthew 12:30",
+  "scripture": [
+    {
+      "nr": "30",
+      "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "30",
+  "version": "kjv"
+}
